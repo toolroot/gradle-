@@ -1,0 +1,14 @@
+fooBar
+-src/main/java
+-src/test/java
+-JRE System Library
+-gradle
+--wrapper
+--launch.gradle
+-lib
+-build.gradle
+-settings.gradle
+-gradle-apps.settings
+-gradle.properties
+-gradlew
+-gradlew.bat
